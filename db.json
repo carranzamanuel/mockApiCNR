@@ -1,4 +1,4 @@
-[
+{"clientes":[
   {
     "nombre": "Ana García",
     "nombreComercial": "Comercial ABC",
@@ -143,4 +143,4 @@
     "nrc": null,
     "porcentajeDescuento": null
   }
-]
+]}
