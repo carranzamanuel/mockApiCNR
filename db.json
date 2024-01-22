@@ -143,4 +143,126 @@
     "nrc": null,
     "porcentajeDescuento": null
   }
-]}
+],"catalogo":[
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Computadora portátil",
+    "precio": 800.50
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Consultoría en desarrollo web",
+    "precio": 500.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Impresora multifuncional",
+    "precio": 250.75
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Licencia de software",
+    "precio": 150.00
+  },
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Teléfono inteligente",
+    "precio": 600.25
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Diseño gráfico",
+    "precio": 350.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Silla de oficina",
+    "precio": 80.99
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Derechos de autor",
+    "precio": null
+  },
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Teclado mecánico",
+    "precio": 120.50
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Servicio de limpieza",
+    "precio": 200.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Cámara de seguridad",
+    "precio": 180.75
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Impuesto sobre ventas",
+    "precio": null
+  },
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Monitor de 27 pulgadas",
+    "precio": 300.99
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Mantenimiento de sistemas",
+    "precio": 450.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Mesa de conferencia",
+    "precio": 150.25
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Arancel de importación",
+    "precio": null
+  },
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Impresora láser",
+    "precio": 180.50
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Asesoría legal",
+    "precio": 700.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Aire acondicionado",
+    "precio": 500.75
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Contribución especial",
+    "precio": null
+  },
+  {
+    "tipoItem": "Bienes",
+    "nombreItem": "Licuadora",
+    "precio": 50.99
+  },
+  {
+    "tipoItem": "Servicios",
+    "nombreItem": "Desarrollo de aplicaciones móviles",
+    "precio": 800.00
+  },
+  {
+    "tipoItem": "Ambos",
+    "nombreItem": "Sistema de sonido",
+    "precio": 300.25
+  },
+  {
+    "tipoItem": "Otros tributos por ítem",
+    "nombreItem": "Impuesto sobre la renta",
+    "precio": null
+  }
+]
+}
